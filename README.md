@@ -33,3 +33,9 @@ $python3
 >>>exit()  
 
 おしまい  
+============================================================================  
+
+[OpenCV 3 with Python](http://www.bogotobogo.com/python/OpenCV_Python/python_opencv3.php)  
+[scikit-learn : Supervised Learning, Unsupervised Learning ](http://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Supervised_Learning_Unsupervised_Learning.php)  
+[]()  
+
