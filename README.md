@@ -33,6 +33,7 @@ $python3
 >>>exit()  
 
 おしまい  
+
 ============================================================================  
 
 [OpenCV 3 with Python](http://www.bogotobogo.com/python/OpenCV_Python/python_opencv3.php)  
