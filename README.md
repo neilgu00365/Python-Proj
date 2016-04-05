@@ -26,6 +26,12 @@ $conda install --channel https://conda.anaconda.org/menpo opencv3
 
 $conda create -n opencv numpy scipy scikit-learn matplotlib python=3  
 $source activate opencv  
+
+//To activate this environment, use:  
+$ source activate opencv  
+//To deactivate this environment, use:  
+$ source deactivate  
+
 $conda install -c https://conda.binstar.org/menpo opencv3  
 $python3
 >>>import cv2   
